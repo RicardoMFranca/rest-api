@@ -1,3 +1,4 @@
 - Primeiro checar se você tem o Node
 - 2º passo depois dar NPM INIT e preencher os dados 
 - 3º PASSO baixar express usando o comando npm install --save express
+- Instalação de Nodemon e Morgan para facilitar processos de debug
